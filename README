@@ -1,0 +1,8 @@
+# Ether.js
+
+https://docs.ethers.io/v5/
+
+ethers.js库旨在为以太坊区块链及其生态系统提供一个小而完整的 JavaScript API 库
+
+对比使用 web3.js 代码量更少，接口也更简洁，推荐优先使用 ethers.js
+

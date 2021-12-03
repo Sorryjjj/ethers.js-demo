@@ -8,7 +8,7 @@
     "typescript": "^4.5.2"
   },
   "scripts": {
-    "test": "yarn exec ts-node src/index.ts"
+    "test": "npx ts-node src/index.ts"
   },
   "dependencies": {
     "ethers": "^5.5.1"
